@@ -1,6 +1,6 @@
 /*
  * Peter Horne-Deus
- * The is decodes a 3 band resistor
+ * The program decodes a 3 band resistor
  * Resistors.java
  * March 2, 2020
  */
